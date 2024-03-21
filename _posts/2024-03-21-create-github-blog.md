@@ -1,7 +1,7 @@
 ---
 title: Github 블로그 만들기 (Jekyll + Chirpy)
 date: 2024-03-21 15:27:00 +0900
-categories: [Github]
+categories: [Github Blog]
 tags: []     # TAG names should always be lowercase
 ---
 
