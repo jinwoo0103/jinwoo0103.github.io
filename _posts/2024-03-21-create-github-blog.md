@@ -77,7 +77,7 @@ Bundler version 2.5.6
 - 레포명: `<본인의 github id>.github.io`
 - `Add a README file` 체크
 
-![create new github repository](/assets/img/posts/2024-03-21-create-github-blog/1.png)
+![create new github repository](/assets/img/posts/2024-03-21-create-github-blog/1.webp)
 
 ### 2. Github Pages 설정
 `Setting` -> `Pages` 에서 `Build and deplopment` 의 `Source` 부분 `Gitub Actions` 로 수정
@@ -100,7 +100,7 @@ $ git clone <SSH 주소>
 
 Download ZIP 눌러주시고 압축 해제 해주세요. (경로 기억하기)
 
-![create new github repository](/assets/img/posts/2024-03-21-create-github-blog/2.png){: width="300" }
+![create new github repository](/assets/img/posts/2024-03-21-create-github-blog/2.webp){: width="300" }
 
 ### 2. 클론한 레포지토리에 Chirpy 테마 파일 복사하기
 

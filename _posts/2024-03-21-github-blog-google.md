@@ -11,11 +11,11 @@ tags: []     # TAG names should always be lowercase
 
 `시작하기` 누른 후, URL 접두어 영역에 등록할 github 블로그 주소를 입력하고 `계속` 버튼을 눌러주세요.
 
-![google search console url](/assets/img/posts/2024-03-21-github-blog-google/1.png){: width="600" }
+![google search console url](/assets/img/posts/2024-03-21-github-blog-google/1.webp){: width="600" }
 
 소유권 확인 창이 나오면, 아래의 다른 확인 방법에서 `HTML 태그` 방식을 눌러주세요.
 
-![google search console html tag](/assets/img/posts/2024-03-21-github-blog-google/2.png){: width="600" }
+![google search console html tag](/assets/img/posts/2024-03-21-github-blog-google/2.webp){: width="600" }
 
 `복사`를 눌러 메타 태그를 복사한 후, content 부분 값만 따로 기록해 둡니다.
 
@@ -49,11 +49,11 @@ webmaster_verifications:
 
 `your-content` 부분에 위에서 입력한 값이 있어야 합니다.
 
-![check blog meta tag](/assets/img/posts/2024-03-21-github-blog-google/3.png)
+![check blog meta tag](/assets/img/posts/2024-03-21-github-blog-google/3.webp)
 
 확인되었다면 [1. Google search console에 url 등록](#1-google-search-console에-url-등록)에서 열어둔 창의 `확인`을 눌러줍니다.
 
-![checked meta tag by google](/assets/img/posts/2024-03-21-github-blog-google/4.png){: width="600" }
+![checked meta tag by google](/assets/img/posts/2024-03-21-github-blog-google/4.webp){: width="600" }
 
 위와 같은 창이 나오면 구글이 정상적으로 메타 태그를 인식했다는 뜻입니다.
 
@@ -63,13 +63,13 @@ Google search console의 `Sitemaps` 항목에 들어가서 `sitemap.xml`과 `fee
 
 입력란에 `sitemap.xml`, `feed.xml`을 각각 순차적으로 입력해주면 완료됩니다.
 
-![google search console sitemaps section](/assets/img/posts/2024-03-21-github-blog-google/5.png)
+![google search console sitemaps section](/assets/img/posts/2024-03-21-github-blog-google/5.webp)
 
 ## 5. 구글 검색에 등록되었는지 확인
 
 Google search console의 `페이지` 항목에 들어가보면 아직 데이터를 처리하는 중이라고 나옵니다.
 
-![google search console page section](/assets/img/posts/2024-03-21-github-blog-google/6.png)
+![google search console page section](/assets/img/posts/2024-03-21-github-blog-google/6.webp)
 
 경험자분들에 따르면 실제 구글 검색이 가능하기까지 보통 2-3일, 많게는 일주일까지도 걸린다고 합니다.
 

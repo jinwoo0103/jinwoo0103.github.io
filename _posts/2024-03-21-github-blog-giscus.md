@@ -15,17 +15,17 @@ tags: []     # TAG names should always be lowercase
 
 `Settings` -> `General` 의 `Features` 섹션에서 `Discussions` 체크
 
-![activate discussions](/assets/img/posts/2024-03-21-github-blog-giscus/1.png)
+![activate discussions](/assets/img/posts/2024-03-21-github-blog-giscus/1.webp)
 
 이후 레포 상단바를 보면 `Discussions` 항목이 추가되어 있어야 합니다.
 
-![check activated discussions](/assets/img/posts/2024-03-21-github-blog-giscus/2.png)
+![check activated discussions](/assets/img/posts/2024-03-21-github-blog-giscus/2.webp)
 
 ## 3. Discussions에 Comments 카테고리 추가
 
 `Discussions` 탭에서 Categories 목록 옆의 수정 아이콘을 눌러 카테고리를 추가할 수 있습니다.
 
-![how to add category](/assets/img/posts/2024-03-21-github-blog-giscus/3.png)
+![how to add category](/assets/img/posts/2024-03-21-github-blog-giscus/3.webp)
 
 다음 화면에서 `New Category` 버튼을 누른 후, 아래와 같이 설정하여 추가해 주세요.
 
@@ -34,7 +34,7 @@ tags: []     # TAG names should always be lowercase
 
 정상적으로 완료됐다면 다음과 같이 `Comments` 항목이 추가된 걸 확인할 수 있습니다.
 
-![check added category](/assets/img/posts/2024-03-21-github-blog-giscus/4.png){: width="300" }
+![check added category](/assets/img/posts/2024-03-21-github-blog-giscus/4.webp){: width="300" }
 
 ## 4. giscus 설정값 가져오기
 
@@ -42,7 +42,7 @@ tags: []     # TAG names should always be lowercase
 
 위 링크의 저장소 항목에 `myusername/myrepo` 형식으로 입력하면, 필요한 설정을 다 완료했는지 알 수 있습니다.
 
-![giscus setting](/assets/img/posts/2024-03-21-github-blog-giscus/5.png)
+![giscus setting](/assets/img/posts/2024-03-21-github-blog-giscus/5.webp)
 
 이후 해당 페이지의 아래에 있는 옵션들을 선택해주시면 됩니다.
 
@@ -50,7 +50,7 @@ tags: []     # TAG names should always be lowercase
 
 [3. Discussions에 Comments 카테고리 추가](#3-discussions에-comments-카테고리-추가) 에서 만들었던 `Comments`로 지정해주면 됩니다.
 
-![giscus discussion setting](/assets/img/posts/2024-03-21-github-blog-giscus/6.png)
+![giscus discussion setting](/assets/img/posts/2024-03-21-github-blog-giscus/6.webp)
 
 나머지 옵션들의 경우 저는 그대로 두었습니다.
 
